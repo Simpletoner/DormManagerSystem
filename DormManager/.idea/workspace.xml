@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="725ca63e-6a46-4a6c-a280-5558f00e598f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bsm14aITsFQRZAhvSrLLHvs3uy" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/project/test Maven Webapp" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="DormManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdut.dorm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sdut.dorm.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="725ca63e-6a46-4a6c-a280-5558f00e598f" name="Default Changelist" comment="" />
+      <created>1589428957155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589428957155</updated>
+      <workItem from="1589428961320" duration="9743000" />
+      <workItem from="1589604214649" duration="595000" />
+      <workItem from="1589610829411" duration="7615000" />
+      <workItem from="1589872165750" duration="10589000" />
+      <workItem from="1590025872988" duration="6534000" />
+      <workItem from="1590109599864" duration="22843000" />
+      <workItem from="1590197481382" duration="13654000" />
+      <workItem from="1590368463026" duration="624000" />
+      <workItem from="1590473841077" duration="4443000" />
+      <workItem from="1590650374565" duration="3192000" />
+      <workItem from="1590669046795" duration="2324000" />
+      <workItem from="1590740394149" duration="5430000" />
+      <workItem from="1590814478200" duration="22895000" />
+      <workItem from="1591060189922" duration="2753000" />
+      <workItem from="1591081029790" duration="2393000" />
+      <workItem from="1591146489626" duration="7541000" />
+      <workItem from="1591169364244" duration="1615000" />
+      <workItem from="1591233441895" duration="14730000" />
+      <workItem from="1591271673571" duration="5778000" />
+      <workItem from="1591319747661" duration="7972000" />
+      <workItem from="1591349933385" duration="8782000" />
+      <workItem from="1591493670900" duration="4038000" />
+      <workItem from="1591583634437" duration="47966000" />
+      <workItem from="1592007113714" duration="4378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sdut/dorm/controller/HealthController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
